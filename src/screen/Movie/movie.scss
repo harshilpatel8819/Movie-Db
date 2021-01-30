@@ -1,0 +1,12 @@
+.movieDetailsContainer {
+ display: flex;
+ flex-direction: row;
+}
+
+.movieDetails {
+  flex: 0.9;
+}
+
+.autoCompleteTextInput {
+  width: 100%;
+}
